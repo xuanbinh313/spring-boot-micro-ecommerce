@@ -1,3 +1,9 @@
 [submodule "order-service"]
 	path = order-service
 	url = git@github.com:xuanbinh313/spring-boot-micro-order-service.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = git@github.com:xuanbinh313/spring-boot-micro-inventory-service.git
+[submodule "product-service"]
+	path = product-service
+	url = git@github.com:xuanbinh313/spring-boot-micro-product-service.git
