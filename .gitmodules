@@ -1,0 +1,3 @@
+[submodule "order-service"]
+	path = order-service
+	url = git@github.com:xuanbinh313/spring-boot-micro-order-service.git
