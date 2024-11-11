@@ -1,3 +1,6 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:xuanbinh313/spring-boot-micro-api-gateway.git
 [submodule "order-service"]
 	path = order-service
 	url = git@github.com:xuanbinh313/spring-boot-micro-order-service.git
