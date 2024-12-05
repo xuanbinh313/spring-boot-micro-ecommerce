@@ -10,3 +10,6 @@
 [submodule "product-service"]
 	path = product-service
 	url = git@github.com:xuanbinh313/spring-boot-micro-product-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:xuanbinh313/spring-boot-micro-notification-service.git
